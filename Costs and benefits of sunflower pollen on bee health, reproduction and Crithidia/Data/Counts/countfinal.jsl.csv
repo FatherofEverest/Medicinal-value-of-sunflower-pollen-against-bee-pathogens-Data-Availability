@@ -1,0 +1,9 @@
+
+Fit Model(
+	Y( :totcrith ),
+	Effects( :Pollen, :daysinfect, :wingmm, :dimorph ),
+	Random Effects( :colony ),
+	Personality( "Standard Least Squares" ),
+	Emphasis( "Minimal Report" ),
+	Method( "REML" )
+);

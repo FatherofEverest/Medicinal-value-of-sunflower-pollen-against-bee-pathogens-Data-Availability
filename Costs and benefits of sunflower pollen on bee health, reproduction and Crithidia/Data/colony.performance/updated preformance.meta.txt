@@ -1,0 +1,11 @@
+#Data from J Leslie sunflower/buckwheat  crithidia microcolony experiment
+#Microcolony	-- experimental unit of 5 adult bees
+#Innoculationdate	-- date on which colony inoculated; corresponds to colony of origin
+#Dateegg1 -- calendar date of egg laying	
+#Time2egg	-- number of days after inoculation before first egg found
+#Laideggs-- whether or not eggs were laid during the experiment	
+#Eggbi	-- binary response , 0 = no egg, 1= laid egg
+#Numbereggs--no data (number of eggs laid before dissection time 
+#Infection: treatment with 2 levels, I=inoculated with Crithidia-containing gut extract, U=sham inoculated
+#Pollen : pollen type that microcolonies were fed during experiment. B=buckwheat, S=sunflower
+#use data from individual bees to calculate size dimorphism
