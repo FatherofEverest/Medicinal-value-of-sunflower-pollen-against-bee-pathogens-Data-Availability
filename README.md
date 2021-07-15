@@ -2,4 +2,4 @@
 # Publisher: Scientific Reports
 # DOI:10.1038/s41598-018-32681-y
 
-# Please contact the lead author of this paper, Jonathan Giacomini, via email jjgiacom@ncsu.edu for any questions. 
+# Please contact the lead author of this paper, Jonathan Giacomini, via email jonjgiacomini@gmail.com for any questions. 
